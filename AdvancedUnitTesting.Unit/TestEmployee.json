@@ -1,0 +1,14 @@
+{
+  {
+    "age": 60,
+    "ExpectedResult": true
+  },
+  {
+    "age": 70,
+    "ExpectedResult": true
+  },
+  {
+    "age": 40,
+    "ExpectedResult": false
+  }
+}
